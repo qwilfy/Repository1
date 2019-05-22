@@ -1,7 +1,7 @@
 function hindKokku(){
-	kogus=document.getElementById("kogus");
-	vastus=document.getElementById("hind");
-	valuta=document.getElementById("valuta").value;
+	var kogus=document.getElementById("kogus");
+	var vastus=document.getElementById("hind");
+	var valuta=document.getElementById("valuta").value;
 	
 	alert("Convert to" + " " + valuta);
 	
