@@ -18,6 +18,7 @@ body{ /* Sdelaj zakruglenii ugli u border, vnutri krasnii cvet, border sinij */
 #div2{ /* Sdelat otstup ot kazdogo slova */
 	  border: 1px solid powderblue;
 	padding: 30px;
+	margin: 30px;
 }
 
 #div3{
